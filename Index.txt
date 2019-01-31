@@ -1,5 +1,5 @@
 ## Index of source code examples:
 
-\General Example reading barcode
+\General Example Reading Barcode
 \Read barcode From Memory
 \Set Image Preprocessing Filters
